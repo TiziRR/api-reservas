@@ -39,6 +39,7 @@ npx tsc --init (para tsconfig)
 ```
  src
    L config
+    L env.ts
    L db
    L middlewares
    L schemas
