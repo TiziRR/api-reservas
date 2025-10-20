@@ -41,6 +41,7 @@ npx tsc --init (para tsconfig)
    L config
     L env.ts
    L db
+    L mongo.ts
    L middlewares
    L schemas
    L models
